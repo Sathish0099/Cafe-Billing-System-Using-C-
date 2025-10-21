@@ -44,3 +44,25 @@ CafeBillingSystem/
 ├── MainForm.cs            # UI and logic
 ├── Program.cs             # Application entry point
 ├── README.md
+
+
+
+
+
+
+How to Run the Project
+
+--->Clone the Repository:
+git clone https://github.com/your-username/CafeBillingSystem.git
+
+
+--->Open in Visual Studio:
+Launch Visual Studio.
+Open the .sln file from the cloned directory.
+
+--->Configure Database:
+Ensure Microsoft Access is installed.
+Check if the CafeDB.accdb path is correctly linked in your project.
+
+--->Build and Run:
+Press F5 to run the application.
