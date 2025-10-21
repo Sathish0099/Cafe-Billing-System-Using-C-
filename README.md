@@ -2,8 +2,6 @@
 
 A simple and elegant **desktop application** for billing in cafes, developed using **C#** in **Visual Studio**. This project is designed to help small businesses manage billing efficiently with a clean UI, dynamic receipt generation, and print preview features.
 
-![Billing System Screenshot](fbf9219f-1790-43dc-a5c8-467cc5edd245.png)
-
 ---
 
 ## 🧾 Features
@@ -66,3 +64,8 @@ Check if the CafeDB.accdb path is correctly linked in your project.
 
 --->Build and Run:
 Press F5 to run the application.
+
+## Developed By
+
+* **Sathish** - [GitHub Profile](https://github.com/Sathish0099) 
+    *(Replace "Sathish0099" with your actual GitHub username)*
