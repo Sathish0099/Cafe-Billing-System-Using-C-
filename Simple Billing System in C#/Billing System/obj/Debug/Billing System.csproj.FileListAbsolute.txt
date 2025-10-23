@@ -1,0 +1,21 @@
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.exe.config
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.pdb
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Billing System.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.pdb
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe.config
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.exe
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\bin\Debug\BillingSystem.pdb
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.AssemblyReference.cache
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\CafeManagement.Form1.resources
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.Properties.Resources.resources
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.GenerateResource.cache
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\Billing System.csproj.CoreCompileInputs.cache
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.exe
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.pdb
+C:\Users\Scita-Pc-23\Downloads\Simple Billing System in C#\Simple Billing System in C#\Billing System\obj\Debug\BillingSystem.exe.config

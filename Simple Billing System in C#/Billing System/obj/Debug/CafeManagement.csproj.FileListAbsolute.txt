@@ -1,0 +1,39 @@
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe.config
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\bin\Debug\CafeManagement.exe
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\bin\Debug\CafeManagement.pdb
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csprojResolveAssemblyReference.cache
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.Cache
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\obj\Debug\CafeManagement.exe
+D:\Coding\C#\OOP\CafeManagement\CafeManagement\obj\Debug\CafeManagement.pdb
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\bin\Debug\CafeManagement.exe.config
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\bin\Debug\CafeManagement.exe
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\bin\Debug\CafeManagement.pdb
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\obj\Debug\CafeManagement.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\obj\Debug\CafeManagement.exe
+F:\Sem.4\C# Projects\Trials\CafeManagementSystem-master\CafeManagement\obj\Debug\CafeManagement.pdb
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe.config
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.pdb
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.exe
+F:\Sem.4\C# Projects\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.pdb
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe.config
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\CafeManagement.pdb
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Properties.Resources.resources
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.pdb

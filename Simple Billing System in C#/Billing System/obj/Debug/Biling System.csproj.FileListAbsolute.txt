@@ -1,0 +1,10 @@
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.exe.config
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\bin\Debug\BillingSystem.pdb
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Biling System.csprojAssemblyReference.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\CafeManagement.Form1.resources
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Biling System.csproj.GenerateResource.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\Biling System.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.exe
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.pdb
+C:\Users\Mark\Desktop\CafeBillingSystem_C#\CafeBillingSystem\CafeManagement\obj\Debug\BillingSystem.Properties.Resources.resources
